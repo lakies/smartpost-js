@@ -18,7 +18,7 @@ if (SmartLocation == undefined) {
 	};
 }
 
-SmartLocation.URL_PLACES     = 'https://www.smartpost.ee/places.js';
+SmartLocation.URL_PLACES     = 'https://cdn.jsdelivr.net/gh/lakies/smartpost-js/places.js';
 // SmartLocation.URL_IMG        = 'https://web.archive.org/web/20221005001835/https://www.smartpost.ee/widget/smartpost-logo.jpg';
 SmartLocation.URL_IMG        = 'https://cdn.jsdelivr.net/gh/lakies/smartpost-js/smartpost-itella-logo.png';
 
